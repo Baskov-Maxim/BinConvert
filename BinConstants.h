@@ -3,6 +3,6 @@
 
 namespace BinConst
 {
-	const int SIZE = 16;	
+	const int SIZE = 16;	// Array size
 }
 #endif
